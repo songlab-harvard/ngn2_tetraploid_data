@@ -1,5 +1,5 @@
 track 1-H1_A9-1_minusKCl_D28Ngn2Aligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/1-H1_A9-1_minusKCl_D28Ngn2Aligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/1-H1_A9-1_minusKCl_D28Ngn2Aligned.sortedByCoord.out.bw
 shortLabel 1-H1_A9-1_minusKCl_D28Ngn2Aligned.sortedByCoord.out
 longLabel 1-H1_A9-1_minusKCl_D28Ngn2Aligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -7,7 +7,7 @@ visibility full
 autoScale on
 
 track 10-H2_B7-2_6hrKCl_D28Ngn2Aligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/10-H2_B7-2_6hrKCl_D28Ngn2Aligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/10-H2_B7-2_6hrKCl_D28Ngn2Aligned.sortedByCoord.out.bw
 shortLabel 10-H2_B7-2_6hrKCl_D28Ngn2Aligned.sortedByCoord.out
 longLabel 10-H2_B7-2_6hrKCl_D28Ngn2Aligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -15,7 +15,7 @@ visibility full
 autoScale on
 
 track 10_L4_H2_B7-2_D28_RNAseq_minusKClAligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/10_L4_H2_B7-2_D28_RNAseq_minusKClAligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/10_L4_H2_B7-2_D28_RNAseq_minusKClAligned.sortedByCoord.out.bw
 shortLabel 10_L4_H2_B7-2_D28_RNAseq_minusKClAligned.sortedByCoord.out
 longLabel 10_L4_H2_B7-2_D28_RNAseq_minusKClAligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -23,7 +23,7 @@ visibility full
 autoScale on
 
 track 11-NCRM5_minusKCl_D28Ngn2Aligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/11-NCRM5_minusKCl_D28Ngn2Aligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/11-NCRM5_minusKCl_D28Ngn2Aligned.sortedByCoord.out.bw
 shortLabel 11-NCRM5_minusKCl_D28Ngn2Aligned.sortedByCoord.out
 longLabel 11-NCRM5_minusKCl_D28Ngn2Aligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -31,7 +31,7 @@ visibility full
 autoScale on
 
 track 11_L4_H2_B7-2_D28_RNAseq_2hrKClAligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/11_L4_H2_B7-2_D28_RNAseq_2hrKClAligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/11_L4_H2_B7-2_D28_RNAseq_2hrKClAligned.sortedByCoord.out.bw
 shortLabel 11_L4_H2_B7-2_D28_RNAseq_2hrKClAligned.sortedByCoord.out
 longLabel 11_L4_H2_B7-2_D28_RNAseq_2hrKClAligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -39,7 +39,7 @@ visibility full
 autoScale on
 
 track 12-NCRM5_2hrKCl_D28Ngn2Aligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/12-NCRM5_2hrKCl_D28Ngn2Aligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/12-NCRM5_2hrKCl_D28Ngn2Aligned.sortedByCoord.out.bw
 shortLabel 12-NCRM5_2hrKCl_D28Ngn2Aligned.sortedByCoord.out
 longLabel 12-NCRM5_2hrKCl_D28Ngn2Aligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -47,7 +47,7 @@ visibility full
 autoScale on
 
 track 12_L4_H2_B7-2_D28_RNAseq_6hrKClAligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/12_L4_H2_B7-2_D28_RNAseq_6hrKClAligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/12_L4_H2_B7-2_D28_RNAseq_6hrKClAligned.sortedByCoord.out.bw
 shortLabel 12_L4_H2_B7-2_D28_RNAseq_6hrKClAligned.sortedByCoord.out
 longLabel 12_L4_H2_B7-2_D28_RNAseq_6hrKClAligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -55,7 +55,7 @@ visibility full
 autoScale on
 
 track 13-NCRM5_6hrKCl_D28Ngn2Aligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/13-NCRM5_6hrKCl_D28Ngn2Aligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/13-NCRM5_6hrKCl_D28Ngn2Aligned.sortedByCoord.out.bw
 shortLabel 13-NCRM5_6hrKCl_D28Ngn2Aligned.sortedByCoord.out
 longLabel 13-NCRM5_6hrKCl_D28Ngn2Aligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -63,7 +63,7 @@ visibility full
 autoScale on
 
 track 13_L5_NCRM5_D28_RNAseq_minusKClAligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/13_L5_NCRM5_D28_RNAseq_minusKClAligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/13_L5_NCRM5_D28_RNAseq_minusKClAligned.sortedByCoord.out.bw
 shortLabel 13_L5_NCRM5_D28_RNAseq_minusKClAligned.sortedByCoord.out
 longLabel 13_L5_NCRM5_D28_RNAseq_minusKClAligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -71,7 +71,7 @@ visibility full
 autoScale on
 
 track 14-C1_A4-3_minusKCl_D28Ngn2Aligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/14-C1_A4-3_minusKCl_D28Ngn2Aligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/14-C1_A4-3_minusKCl_D28Ngn2Aligned.sortedByCoord.out.bw
 shortLabel 14-C1_A4-3_minusKCl_D28Ngn2Aligned.sortedByCoord.out
 longLabel 14-C1_A4-3_minusKCl_D28Ngn2Aligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -79,7 +79,7 @@ visibility full
 autoScale on
 
 track 14_L5_NCRM5_D28_RNAseq_2hrKClAligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/14_L5_NCRM5_D28_RNAseq_2hrKClAligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/14_L5_NCRM5_D28_RNAseq_2hrKClAligned.sortedByCoord.out.bw
 shortLabel 14_L5_NCRM5_D28_RNAseq_2hrKClAligned.sortedByCoord.out
 longLabel 14_L5_NCRM5_D28_RNAseq_2hrKClAligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -87,7 +87,7 @@ visibility full
 autoScale on
 
 track 15-C1_A4-3_6hrKCl_D28Ngn2Aligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/15-C1_A4-3_6hrKCl_D28Ngn2Aligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/15-C1_A4-3_6hrKCl_D28Ngn2Aligned.sortedByCoord.out.bw
 shortLabel 15-C1_A4-3_6hrKCl_D28Ngn2Aligned.sortedByCoord.out
 longLabel 15-C1_A4-3_6hrKCl_D28Ngn2Aligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -95,7 +95,7 @@ visibility full
 autoScale on
 
 track 15_L5_NCRM5_D28_RNAseq_6hrKClAligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/15_L5_NCRM5_D28_RNAseq_6hrKClAligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/15_L5_NCRM5_D28_RNAseq_6hrKClAligned.sortedByCoord.out.bw
 shortLabel 15_L5_NCRM5_D28_RNAseq_6hrKClAligned.sortedByCoord.out
 longLabel 15_L5_NCRM5_D28_RNAseq_6hrKClAligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -103,7 +103,7 @@ visibility full
 autoScale on
 
 track 16-C2_C8-1_minusKCl_D28Ngn2Aligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/16-C2_C8-1_minusKCl_D28Ngn2Aligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/16-C2_C8-1_minusKCl_D28Ngn2Aligned.sortedByCoord.out.bw
 shortLabel 16-C2_C8-1_minusKCl_D28Ngn2Aligned.sortedByCoord.out
 longLabel 16-C2_C8-1_minusKCl_D28Ngn2Aligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -111,7 +111,7 @@ visibility full
 autoScale on
 
 track 16_L6_C1_B2_D28_RNAseq_minusKClAligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/16_L6_C1_B2_D28_RNAseq_minusKClAligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/16_L6_C1_B2_D28_RNAseq_minusKClAligned.sortedByCoord.out.bw
 shortLabel 16_L6_C1_B2_D28_RNAseq_minusKClAligned.sortedByCoord.out
 longLabel 16_L6_C1_B2_D28_RNAseq_minusKClAligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -119,7 +119,7 @@ visibility full
 autoScale on
 
 track 17-C2_C8-1_2hrKCl_D28Ngn2Aligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/17-C2_C8-1_2hrKCl_D28Ngn2Aligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/17-C2_C8-1_2hrKCl_D28Ngn2Aligned.sortedByCoord.out.bw
 shortLabel 17-C2_C8-1_2hrKCl_D28Ngn2Aligned.sortedByCoord.out
 longLabel 17-C2_C8-1_2hrKCl_D28Ngn2Aligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -127,7 +127,7 @@ visibility full
 autoScale on
 
 track 17_L6_C1_B2_D28_RNAseq_2hrKClAligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/17_L6_C1_B2_D28_RNAseq_2hrKClAligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/17_L6_C1_B2_D28_RNAseq_2hrKClAligned.sortedByCoord.out.bw
 shortLabel 17_L6_C1_B2_D28_RNAseq_2hrKClAligned.sortedByCoord.out
 longLabel 17_L6_C1_B2_D28_RNAseq_2hrKClAligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -135,7 +135,7 @@ visibility full
 autoScale on
 
 track 18-C2_C8-1_6hrKCl_D28Ngn2Aligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/18-C2_C8-1_6hrKCl_D28Ngn2Aligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/18-C2_C8-1_6hrKCl_D28Ngn2Aligned.sortedByCoord.out.bw
 shortLabel 18-C2_C8-1_6hrKCl_D28Ngn2Aligned.sortedByCoord.out
 longLabel 18-C2_C8-1_6hrKCl_D28Ngn2Aligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -143,7 +143,7 @@ visibility full
 autoScale on
 
 track 18_L6_C1_B2_D28_RNAseq_6hrKClAligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/18_L6_C1_B2_D28_RNAseq_6hrKClAligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/18_L6_C1_B2_D28_RNAseq_6hrKClAligned.sortedByCoord.out.bw
 shortLabel 18_L6_C1_B2_D28_RNAseq_6hrKClAligned.sortedByCoord.out
 longLabel 18_L6_C1_B2_D28_RNAseq_6hrKClAligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -151,7 +151,7 @@ visibility full
 autoScale on
 
 track 19-H1H1a_D3-2_minusKCl_D28Ngn2Aligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/19-H1H1a_D3-2_minusKCl_D28Ngn2Aligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/19-H1H1a_D3-2_minusKCl_D28Ngn2Aligned.sortedByCoord.out.bw
 shortLabel 19-H1H1a_D3-2_minusKCl_D28Ngn2Aligned.sortedByCoord.out
 longLabel 19-H1H1a_D3-2_minusKCl_D28Ngn2Aligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -159,7 +159,7 @@ visibility full
 autoScale on
 
 track 19_L7_C1_B12_D28_RNAseq_minusKClAligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/19_L7_C1_B12_D28_RNAseq_minusKClAligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/19_L7_C1_B12_D28_RNAseq_minusKClAligned.sortedByCoord.out.bw
 shortLabel 19_L7_C1_B12_D28_RNAseq_minusKClAligned.sortedByCoord.out
 longLabel 19_L7_C1_B12_D28_RNAseq_minusKClAligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -167,7 +167,7 @@ visibility full
 autoScale on
 
 track 1_L1_H1_A9-1_D28_RNAseq_minusKClAligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/1_L1_H1_A9-1_D28_RNAseq_minusKClAligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/1_L1_H1_A9-1_D28_RNAseq_minusKClAligned.sortedByCoord.out.bw
 shortLabel 1_L1_H1_A9-1_D28_RNAseq_minusKClAligned.sortedByCoord.out
 longLabel 1_L1_H1_A9-1_D28_RNAseq_minusKClAligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -175,7 +175,7 @@ visibility full
 autoScale on
 
 track 2-H1_A9-1_2hrKCl_D28Ngn2Aligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/2-H1_A9-1_2hrKCl_D28Ngn2Aligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/2-H1_A9-1_2hrKCl_D28Ngn2Aligned.sortedByCoord.out.bw
 shortLabel 2-H1_A9-1_2hrKCl_D28Ngn2Aligned.sortedByCoord.out
 longLabel 2-H1_A9-1_2hrKCl_D28Ngn2Aligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -183,7 +183,7 @@ visibility full
 autoScale on
 
 track 20-H1H1a_D3-2_2hrKCl_D28Ngn2Aligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/20-H1H1a_D3-2_2hrKCl_D28Ngn2Aligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/20-H1H1a_D3-2_2hrKCl_D28Ngn2Aligned.sortedByCoord.out.bw
 shortLabel 20-H1H1a_D3-2_2hrKCl_D28Ngn2Aligned.sortedByCoord.out
 longLabel 20-H1H1a_D3-2_2hrKCl_D28Ngn2Aligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -191,7 +191,7 @@ visibility full
 autoScale on
 
 track 20_L7_C1_B12_D28_RNAseq_2hrKClAligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/20_L7_C1_B12_D28_RNAseq_2hrKClAligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/20_L7_C1_B12_D28_RNAseq_2hrKClAligned.sortedByCoord.out.bw
 shortLabel 20_L7_C1_B12_D28_RNAseq_2hrKClAligned.sortedByCoord.out
 longLabel 20_L7_C1_B12_D28_RNAseq_2hrKClAligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -199,7 +199,7 @@ visibility full
 autoScale on
 
 track 21-H1H1a_D3-2_6hrKCl_D28Ngn2Aligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/21-H1H1a_D3-2_6hrKCl_D28Ngn2Aligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/21-H1H1a_D3-2_6hrKCl_D28Ngn2Aligned.sortedByCoord.out.bw
 shortLabel 21-H1H1a_D3-2_6hrKCl_D28Ngn2Aligned.sortedByCoord.out
 longLabel 21-H1H1a_D3-2_6hrKCl_D28Ngn2Aligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -207,7 +207,7 @@ visibility full
 autoScale on
 
 track 21_L7_C1_B12_D28_RNAseq_6hrKClAligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/21_L7_C1_B12_D28_RNAseq_6hrKClAligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/21_L7_C1_B12_D28_RNAseq_6hrKClAligned.sortedByCoord.out.bw
 shortLabel 21_L7_C1_B12_D28_RNAseq_6hrKClAligned.sortedByCoord.out
 longLabel 21_L7_C1_B12_D28_RNAseq_6hrKClAligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -215,7 +215,7 @@ visibility full
 autoScale on
 
 track 22-H1H1a_D6-3_minusKCl_D28Ngn2Aligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/22-H1H1a_D6-3_minusKCl_D28Ngn2Aligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/22-H1H1a_D6-3_minusKCl_D28Ngn2Aligned.sortedByCoord.out.bw
 shortLabel 22-H1H1a_D6-3_minusKCl_D28Ngn2Aligned.sortedByCoord.out
 longLabel 22-H1H1a_D6-3_minusKCl_D28Ngn2Aligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -223,7 +223,7 @@ visibility full
 autoScale on
 
 track 22_L8_C2-C_D28_RNAseq_minusKClAligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/22_L8_C2-C_D28_RNAseq_minusKClAligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/22_L8_C2-C_D28_RNAseq_minusKClAligned.sortedByCoord.out.bw
 shortLabel 22_L8_C2-C_D28_RNAseq_minusKClAligned.sortedByCoord.out
 longLabel 22_L8_C2-C_D28_RNAseq_minusKClAligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -231,7 +231,7 @@ visibility full
 autoScale on
 
 track 23-H1H1a_D6-3_2hrKCl_D28Ngn2Aligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/23-H1H1a_D6-3_2hrKCl_D28Ngn2Aligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/23-H1H1a_D6-3_2hrKCl_D28Ngn2Aligned.sortedByCoord.out.bw
 shortLabel 23-H1H1a_D6-3_2hrKCl_D28Ngn2Aligned.sortedByCoord.out
 longLabel 23-H1H1a_D6-3_2hrKCl_D28Ngn2Aligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -239,7 +239,7 @@ visibility full
 autoScale on
 
 track 23_L8_C2-C_D28_RNAseq_2hrKClAligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/23_L8_C2-C_D28_RNAseq_2hrKClAligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/23_L8_C2-C_D28_RNAseq_2hrKClAligned.sortedByCoord.out.bw
 shortLabel 23_L8_C2-C_D28_RNAseq_2hrKClAligned.sortedByCoord.out
 longLabel 23_L8_C2-C_D28_RNAseq_2hrKClAligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -247,7 +247,7 @@ visibility full
 autoScale on
 
 track 24-H1H1a_D6-3_6hrKCl_D28Ngn2Aligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/24-H1H1a_D6-3_6hrKCl_D28Ngn2Aligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/24-H1H1a_D6-3_6hrKCl_D28Ngn2Aligned.sortedByCoord.out.bw
 shortLabel 24-H1H1a_D6-3_6hrKCl_D28Ngn2Aligned.sortedByCoord.out
 longLabel 24-H1H1a_D6-3_6hrKCl_D28Ngn2Aligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -255,7 +255,7 @@ visibility full
 autoScale on
 
 track 24_L8_C2-C_D28_RNAseq_6hrKClAligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/24_L8_C2-C_D28_RNAseq_6hrKClAligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/24_L8_C2-C_D28_RNAseq_6hrKClAligned.sortedByCoord.out.bw
 shortLabel 24_L8_C2-C_D28_RNAseq_6hrKClAligned.sortedByCoord.out
 longLabel 24_L8_C2-C_D28_RNAseq_6hrKClAligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -263,7 +263,7 @@ visibility full
 autoScale on
 
 track 25-H1C1b_A6-2_minusKCl_D28Ngn2.Hs
-bigDataUrl ../ngn2_tracks/25-H1C1b_A6-2_minusKCl_D28Ngn2.Hs.bw
+bigDataUrl ../tracks/25-H1C1b_A6-2_minusKCl_D28Ngn2.Hs.bw
 shortLabel 25-H1C1b_A6-2_minusKCl_D28Ngn2.Hs
 longLabel 25-H1C1b_A6-2_minusKCl_D28Ngn2.Hs RNA-seq
 type bigWig
@@ -271,7 +271,7 @@ visibility full
 autoScale on
 
 track 25-H1C1b_A6-2_minusKCl_D28Ngn2.Pt
-bigDataUrl ../ngn2_tracks/25-H1C1b_A6-2_minusKCl_D28Ngn2.Pt.bw
+bigDataUrl ../tracks/25-H1C1b_A6-2_minusKCl_D28Ngn2.Pt.bw
 shortLabel 25-H1C1b_A6-2_minusKCl_D28Ngn2.Pt
 longLabel 25-H1C1b_A6-2_minusKCl_D28Ngn2.Pt RNA-seq
 type bigWig
@@ -279,7 +279,7 @@ visibility full
 autoScale on
 
 track 25_L9_C2_A6-2_D28_RNAseq_minusKClAligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/25_L9_C2_A6-2_D28_RNAseq_minusKClAligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/25_L9_C2_A6-2_D28_RNAseq_minusKClAligned.sortedByCoord.out.bw
 shortLabel 25_L9_C2_A6-2_D28_RNAseq_minusKClAligned.sortedByCoord.out
 longLabel 25_L9_C2_A6-2_D28_RNAseq_minusKClAligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -287,7 +287,7 @@ visibility full
 autoScale on
 
 track 26-H1C1b_A6-2_2hrKCl_D28Ngn2.Hs
-bigDataUrl ../ngn2_tracks/26-H1C1b_A6-2_2hrKCl_D28Ngn2.Hs.bw
+bigDataUrl ../tracks/26-H1C1b_A6-2_2hrKCl_D28Ngn2.Hs.bw
 shortLabel 26-H1C1b_A6-2_2hrKCl_D28Ngn2.Hs
 longLabel 26-H1C1b_A6-2_2hrKCl_D28Ngn2.Hs RNA-seq
 type bigWig
@@ -295,7 +295,7 @@ visibility full
 autoScale on
 
 track 26-H1C1b_A6-2_2hrKCl_D28Ngn2.Pt
-bigDataUrl ../ngn2_tracks/26-H1C1b_A6-2_2hrKCl_D28Ngn2.Pt.bw
+bigDataUrl ../tracks/26-H1C1b_A6-2_2hrKCl_D28Ngn2.Pt.bw
 shortLabel 26-H1C1b_A6-2_2hrKCl_D28Ngn2.Pt
 longLabel 26-H1C1b_A6-2_2hrKCl_D28Ngn2.Pt RNA-seq
 type bigWig
@@ -303,7 +303,7 @@ visibility full
 autoScale on
 
 track 26_L9_C2_A6-2_D28_RNAseq_2hrKClAligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/26_L9_C2_A6-2_D28_RNAseq_2hrKClAligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/26_L9_C2_A6-2_D28_RNAseq_2hrKClAligned.sortedByCoord.out.bw
 shortLabel 26_L9_C2_A6-2_D28_RNAseq_2hrKClAligned.sortedByCoord.out
 longLabel 26_L9_C2_A6-2_D28_RNAseq_2hrKClAligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -311,7 +311,7 @@ visibility full
 autoScale on
 
 track 27-H1C1b_A6-2_6hrKCl_D28Ngn2.Hs
-bigDataUrl ../ngn2_tracks/27-H1C1b_A6-2_6hrKCl_D28Ngn2.Hs.bw
+bigDataUrl ../tracks/27-H1C1b_A6-2_6hrKCl_D28Ngn2.Hs.bw
 shortLabel 27-H1C1b_A6-2_6hrKCl_D28Ngn2.Hs
 longLabel 27-H1C1b_A6-2_6hrKCl_D28Ngn2.Hs RNA-seq
 type bigWig
@@ -319,7 +319,7 @@ visibility full
 autoScale on
 
 track 27-H1C1b_A6-2_6hrKCl_D28Ngn2.Pt
-bigDataUrl ../ngn2_tracks/27-H1C1b_A6-2_6hrKCl_D28Ngn2.Pt.bw
+bigDataUrl ../tracks/27-H1C1b_A6-2_6hrKCl_D28Ngn2.Pt.bw
 shortLabel 27-H1C1b_A6-2_6hrKCl_D28Ngn2.Pt
 longLabel 27-H1C1b_A6-2_6hrKCl_D28Ngn2.Pt RNA-seq
 type bigWig
@@ -327,7 +327,7 @@ visibility full
 autoScale on
 
 track 27_L9_C2_A6-2_D28_RNAseq_6hrKClAligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/27_L9_C2_A6-2_D28_RNAseq_6hrKClAligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/27_L9_C2_A6-2_D28_RNAseq_6hrKClAligned.sortedByCoord.out.bw
 shortLabel 27_L9_C2_A6-2_D28_RNAseq_6hrKClAligned.sortedByCoord.out
 longLabel 27_L9_C2_A6-2_D28_RNAseq_6hrKClAligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -335,7 +335,7 @@ visibility full
 autoScale on
 
 track 28-H1C1b_E4-1_minusKCl_D28Ngn2.Hs
-bigDataUrl ../ngn2_tracks/28-H1C1b_E4-1_minusKCl_D28Ngn2.Hs.bw
+bigDataUrl ../tracks/28-H1C1b_E4-1_minusKCl_D28Ngn2.Hs.bw
 shortLabel 28-H1C1b_E4-1_minusKCl_D28Ngn2.Hs
 longLabel 28-H1C1b_E4-1_minusKCl_D28Ngn2.Hs RNA-seq
 type bigWig
@@ -343,7 +343,7 @@ visibility full
 autoScale on
 
 track 28-H1C1b_E4-1_minusKCl_D28Ngn2.Pt
-bigDataUrl ../ngn2_tracks/28-H1C1b_E4-1_minusKCl_D28Ngn2.Pt.bw
+bigDataUrl ../tracks/28-H1C1b_E4-1_minusKCl_D28Ngn2.Pt.bw
 shortLabel 28-H1C1b_E4-1_minusKCl_D28Ngn2.Pt
 longLabel 28-H1C1b_E4-1_minusKCl_D28Ngn2.Pt RNA-seq
 type bigWig
@@ -351,7 +351,7 @@ visibility full
 autoScale on
 
 track 28_L10_C3-C_D28_RNAseq_minusKClAligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/28_L10_C3-C_D28_RNAseq_minusKClAligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/28_L10_C3-C_D28_RNAseq_minusKClAligned.sortedByCoord.out.bw
 shortLabel 28_L10_C3-C_D28_RNAseq_minusKClAligned.sortedByCoord.out
 longLabel 28_L10_C3-C_D28_RNAseq_minusKClAligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -359,7 +359,7 @@ visibility full
 autoScale on
 
 track 29-H1C1b_E4-1_6hrKCl_D28Ngn2.Hs
-bigDataUrl ../ngn2_tracks/29-H1C1b_E4-1_6hrKCl_D28Ngn2.Hs.bw
+bigDataUrl ../tracks/29-H1C1b_E4-1_6hrKCl_D28Ngn2.Hs.bw
 shortLabel 29-H1C1b_E4-1_6hrKCl_D28Ngn2.Hs
 longLabel 29-H1C1b_E4-1_6hrKCl_D28Ngn2.Hs RNA-seq
 type bigWig
@@ -367,7 +367,7 @@ visibility full
 autoScale on
 
 track 29-H1C1b_E4-1_6hrKCl_D28Ngn2.Pt
-bigDataUrl ../ngn2_tracks/29-H1C1b_E4-1_6hrKCl_D28Ngn2.Pt.bw
+bigDataUrl ../tracks/29-H1C1b_E4-1_6hrKCl_D28Ngn2.Pt.bw
 shortLabel 29-H1C1b_E4-1_6hrKCl_D28Ngn2.Pt
 longLabel 29-H1C1b_E4-1_6hrKCl_D28Ngn2.Pt RNA-seq
 type bigWig
@@ -375,7 +375,7 @@ visibility full
 autoScale on
 
 track 29_L10_C3-C_D28_RNAseq_2hrKClAligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/29_L10_C3-C_D28_RNAseq_2hrKClAligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/29_L10_C3-C_D28_RNAseq_2hrKClAligned.sortedByCoord.out.bw
 shortLabel 29_L10_C3-C_D28_RNAseq_2hrKClAligned.sortedByCoord.out
 longLabel 29_L10_C3-C_D28_RNAseq_2hrKClAligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -383,7 +383,7 @@ visibility full
 autoScale on
 
 track 2_L1_H1_A9-1_D28_RNAseq_2hrKClAligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/2_L1_H1_A9-1_D28_RNAseq_2hrKClAligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/2_L1_H1_A9-1_D28_RNAseq_2hrKClAligned.sortedByCoord.out.bw
 shortLabel 2_L1_H1_A9-1_D28_RNAseq_2hrKClAligned.sortedByCoord.out
 longLabel 2_L1_H1_A9-1_D28_RNAseq_2hrKClAligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -391,7 +391,7 @@ visibility full
 autoScale on
 
 track 3-H1_A9-1_6hrKCl_D28Ngn2Aligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/3-H1_A9-1_6hrKCl_D28Ngn2Aligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/3-H1_A9-1_6hrKCl_D28Ngn2Aligned.sortedByCoord.out.bw
 shortLabel 3-H1_A9-1_6hrKCl_D28Ngn2Aligned.sortedByCoord.out
 longLabel 3-H1_A9-1_6hrKCl_D28Ngn2Aligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -399,7 +399,7 @@ visibility full
 autoScale on
 
 track 30-H1C1b_F10-1_minusKCl_D28Ngn2.Hs
-bigDataUrl ../ngn2_tracks/30-H1C1b_F10-1_minusKCl_D28Ngn2.Hs.bw
+bigDataUrl ../tracks/30-H1C1b_F10-1_minusKCl_D28Ngn2.Hs.bw
 shortLabel 30-H1C1b_F10-1_minusKCl_D28Ngn2.Hs
 longLabel 30-H1C1b_F10-1_minusKCl_D28Ngn2.Hs RNA-seq
 type bigWig
@@ -407,7 +407,7 @@ visibility full
 autoScale on
 
 track 30-H1C1b_F10-1_minusKCl_D28Ngn2.Pt
-bigDataUrl ../ngn2_tracks/30-H1C1b_F10-1_minusKCl_D28Ngn2.Pt.bw
+bigDataUrl ../tracks/30-H1C1b_F10-1_minusKCl_D28Ngn2.Pt.bw
 shortLabel 30-H1C1b_F10-1_minusKCl_D28Ngn2.Pt
 longLabel 30-H1C1b_F10-1_minusKCl_D28Ngn2.Pt RNA-seq
 type bigWig
@@ -415,7 +415,7 @@ visibility full
 autoScale on
 
 track 30_L10_C3-C_D28_RNAseq_6hrKClAligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/30_L10_C3-C_D28_RNAseq_6hrKClAligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/30_L10_C3-C_D28_RNAseq_6hrKClAligned.sortedByCoord.out.bw
 shortLabel 30_L10_C3-C_D28_RNAseq_6hrKClAligned.sortedByCoord.out
 longLabel 30_L10_C3-C_D28_RNAseq_6hrKClAligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -423,7 +423,7 @@ visibility full
 autoScale on
 
 track 31-H1C1b_F10-1_2hrKCl_D28Ngn2.Hs
-bigDataUrl ../ngn2_tracks/31-H1C1b_F10-1_2hrKCl_D28Ngn2.Hs.bw
+bigDataUrl ../tracks/31-H1C1b_F10-1_2hrKCl_D28Ngn2.Hs.bw
 shortLabel 31-H1C1b_F10-1_2hrKCl_D28Ngn2.Hs
 longLabel 31-H1C1b_F10-1_2hrKCl_D28Ngn2.Hs RNA-seq
 type bigWig
@@ -431,7 +431,7 @@ visibility full
 autoScale on
 
 track 31-H1C1b_F10-1_2hrKCl_D28Ngn2.Pt
-bigDataUrl ../ngn2_tracks/31-H1C1b_F10-1_2hrKCl_D28Ngn2.Pt.bw
+bigDataUrl ../tracks/31-H1C1b_F10-1_2hrKCl_D28Ngn2.Pt.bw
 shortLabel 31-H1C1b_F10-1_2hrKCl_D28Ngn2.Pt
 longLabel 31-H1C1b_F10-1_2hrKCl_D28Ngn2.Pt RNA-seq
 type bigWig
@@ -439,7 +439,7 @@ visibility full
 autoScale on
 
 track 31_L11_H1H1a_C3-1_D28_RNAseq_minusKClAligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/31_L11_H1H1a_C3-1_D28_RNAseq_minusKClAligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/31_L11_H1H1a_C3-1_D28_RNAseq_minusKClAligned.sortedByCoord.out.bw
 shortLabel 31_L11_H1H1a_C3-1_D28_RNAseq_minusKClAligned.sortedByCoord.out
 longLabel 31_L11_H1H1a_C3-1_D28_RNAseq_minusKClAligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -447,7 +447,7 @@ visibility full
 autoScale on
 
 track 32-H1C1b_F10-1_6hrKCl_D28Ngn2.Hs
-bigDataUrl ../ngn2_tracks/32-H1C1b_F10-1_6hrKCl_D28Ngn2.Hs.bw
+bigDataUrl ../tracks/32-H1C1b_F10-1_6hrKCl_D28Ngn2.Hs.bw
 shortLabel 32-H1C1b_F10-1_6hrKCl_D28Ngn2.Hs
 longLabel 32-H1C1b_F10-1_6hrKCl_D28Ngn2.Hs RNA-seq
 type bigWig
@@ -455,7 +455,7 @@ visibility full
 autoScale on
 
 track 32-H1C1b_F10-1_6hrKCl_D28Ngn2.Pt
-bigDataUrl ../ngn2_tracks/32-H1C1b_F10-1_6hrKCl_D28Ngn2.Pt.bw
+bigDataUrl ../tracks/32-H1C1b_F10-1_6hrKCl_D28Ngn2.Pt.bw
 shortLabel 32-H1C1b_F10-1_6hrKCl_D28Ngn2.Pt
 longLabel 32-H1C1b_F10-1_6hrKCl_D28Ngn2.Pt RNA-seq
 type bigWig
@@ -463,7 +463,7 @@ visibility full
 autoScale on
 
 track 32_L11_H1H1a_C3-1_D28_RNAseq_2hrKClAligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/32_L11_H1H1a_C3-1_D28_RNAseq_2hrKClAligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/32_L11_H1H1a_C3-1_D28_RNAseq_2hrKClAligned.sortedByCoord.out.bw
 shortLabel 32_L11_H1H1a_C3-1_D28_RNAseq_2hrKClAligned.sortedByCoord.out
 longLabel 32_L11_H1H1a_C3-1_D28_RNAseq_2hrKClAligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -471,7 +471,7 @@ visibility full
 autoScale on
 
 track 33-H2C2a_G1-1_6hrKCl_D28Ngn2.Hs
-bigDataUrl ../ngn2_tracks/33-H2C2a_G1-1_6hrKCl_D28Ngn2.Hs.bw
+bigDataUrl ../tracks/33-H2C2a_G1-1_6hrKCl_D28Ngn2.Hs.bw
 shortLabel 33-H2C2a_G1-1_6hrKCl_D28Ngn2.Hs
 longLabel 33-H2C2a_G1-1_6hrKCl_D28Ngn2.Hs RNA-seq
 type bigWig
@@ -479,7 +479,7 @@ visibility full
 autoScale on
 
 track 33-H2C2a_G1-1_6hrKCl_D28Ngn2.Pt
-bigDataUrl ../ngn2_tracks/33-H2C2a_G1-1_6hrKCl_D28Ngn2.Pt.bw
+bigDataUrl ../tracks/33-H2C2a_G1-1_6hrKCl_D28Ngn2.Pt.bw
 shortLabel 33-H2C2a_G1-1_6hrKCl_D28Ngn2.Pt
 longLabel 33-H2C2a_G1-1_6hrKCl_D28Ngn2.Pt RNA-seq
 type bigWig
@@ -487,7 +487,7 @@ visibility full
 autoScale on
 
 track 33_L11_H1H1a_C3-1_D28_RNAseq_6hrKClAligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/33_L11_H1H1a_C3-1_D28_RNAseq_6hrKClAligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/33_L11_H1H1a_C3-1_D28_RNAseq_6hrKClAligned.sortedByCoord.out.bw
 shortLabel 33_L11_H1H1a_C3-1_D28_RNAseq_6hrKClAligned.sortedByCoord.out
 longLabel 33_L11_H1H1a_C3-1_D28_RNAseq_6hrKClAligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -495,7 +495,7 @@ visibility full
 autoScale on
 
 track 34-H2C2a_G6-2_minusKCl_D28Ngn2.Hs
-bigDataUrl ../ngn2_tracks/34-H2C2a_G6-2_minusKCl_D28Ngn2.Hs.bw
+bigDataUrl ../tracks/34-H2C2a_G6-2_minusKCl_D28Ngn2.Hs.bw
 shortLabel 34-H2C2a_G6-2_minusKCl_D28Ngn2.Hs
 longLabel 34-H2C2a_G6-2_minusKCl_D28Ngn2.Hs RNA-seq
 type bigWig
@@ -503,7 +503,7 @@ visibility full
 autoScale on
 
 track 34-H2C2a_G6-2_minusKCl_D28Ngn2.Pt
-bigDataUrl ../ngn2_tracks/34-H2C2a_G6-2_minusKCl_D28Ngn2.Pt.bw
+bigDataUrl ../tracks/34-H2C2a_G6-2_minusKCl_D28Ngn2.Pt.bw
 shortLabel 34-H2C2a_G6-2_minusKCl_D28Ngn2.Pt
 longLabel 34-H2C2a_G6-2_minusKCl_D28Ngn2.Pt RNA-seq
 type bigWig
@@ -511,7 +511,7 @@ visibility full
 autoScale on
 
 track 34_L12_H1H1a_D6-3_D28_RNAseq_minusKClAligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/34_L12_H1H1a_D6-3_D28_RNAseq_minusKClAligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/34_L12_H1H1a_D6-3_D28_RNAseq_minusKClAligned.sortedByCoord.out.bw
 shortLabel 34_L12_H1H1a_D6-3_D28_RNAseq_minusKClAligned.sortedByCoord.out
 longLabel 34_L12_H1H1a_D6-3_D28_RNAseq_minusKClAligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -519,7 +519,7 @@ visibility full
 autoScale on
 
 track 35-H2C2a_G6-2_6hrKCl_D28Ngn2.Hs
-bigDataUrl ../ngn2_tracks/35-H2C2a_G6-2_6hrKCl_D28Ngn2.Hs.bw
+bigDataUrl ../tracks/35-H2C2a_G6-2_6hrKCl_D28Ngn2.Hs.bw
 shortLabel 35-H2C2a_G6-2_6hrKCl_D28Ngn2.Hs
 longLabel 35-H2C2a_G6-2_6hrKCl_D28Ngn2.Hs RNA-seq
 type bigWig
@@ -527,7 +527,7 @@ visibility full
 autoScale on
 
 track 35-H2C2a_G6-2_6hrKCl_D28Ngn2.Pt
-bigDataUrl ../ngn2_tracks/35-H2C2a_G6-2_6hrKCl_D28Ngn2.Pt.bw
+bigDataUrl ../tracks/35-H2C2a_G6-2_6hrKCl_D28Ngn2.Pt.bw
 shortLabel 35-H2C2a_G6-2_6hrKCl_D28Ngn2.Pt
 longLabel 35-H2C2a_G6-2_6hrKCl_D28Ngn2.Pt RNA-seq
 type bigWig
@@ -535,7 +535,7 @@ visibility full
 autoScale on
 
 track 35_L12_H1H1a_D6-3_D28_RNAseq_2hrKClAligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/35_L12_H1H1a_D6-3_D28_RNAseq_2hrKClAligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/35_L12_H1H1a_D6-3_D28_RNAseq_2hrKClAligned.sortedByCoord.out.bw
 shortLabel 35_L12_H1H1a_D6-3_D28_RNAseq_2hrKClAligned.sortedByCoord.out
 longLabel 35_L12_H1H1a_D6-3_D28_RNAseq_2hrKClAligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -543,7 +543,7 @@ visibility full
 autoScale on
 
 track 36_L12_H1H1a_D6-3_D28_RNAseq_6hrKClAligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/36_L12_H1H1a_D6-3_D28_RNAseq_6hrKClAligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/36_L12_H1H1a_D6-3_D28_RNAseq_6hrKClAligned.sortedByCoord.out.bw
 shortLabel 36_L12_H1H1a_D6-3_D28_RNAseq_6hrKClAligned.sortedByCoord.out
 longLabel 36_L12_H1H1a_D6-3_D28_RNAseq_6hrKClAligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -551,7 +551,7 @@ visibility full
 autoScale on
 
 track 37_L13_H1H1a_H6-1_D28_RNAseq_minusKClAligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/37_L13_H1H1a_H6-1_D28_RNAseq_minusKClAligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/37_L13_H1H1a_H6-1_D28_RNAseq_minusKClAligned.sortedByCoord.out.bw
 shortLabel 37_L13_H1H1a_H6-1_D28_RNAseq_minusKClAligned.sortedByCoord.out
 longLabel 37_L13_H1H1a_H6-1_D28_RNAseq_minusKClAligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -559,7 +559,7 @@ visibility full
 autoScale on
 
 track 38_L13_H1H1a_H6-1_D28_RNAseq_2hrKClAligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/38_L13_H1H1a_H6-1_D28_RNAseq_2hrKClAligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/38_L13_H1H1a_H6-1_D28_RNAseq_2hrKClAligned.sortedByCoord.out.bw
 shortLabel 38_L13_H1H1a_H6-1_D28_RNAseq_2hrKClAligned.sortedByCoord.out
 longLabel 38_L13_H1H1a_H6-1_D28_RNAseq_2hrKClAligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -567,7 +567,7 @@ visibility full
 autoScale on
 
 track 39_L13_H1H1a_H6-1_D28_RNAseq_6hrKClAligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/39_L13_H1H1a_H6-1_D28_RNAseq_6hrKClAligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/39_L13_H1H1a_H6-1_D28_RNAseq_6hrKClAligned.sortedByCoord.out.bw
 shortLabel 39_L13_H1H1a_H6-1_D28_RNAseq_6hrKClAligned.sortedByCoord.out
 longLabel 39_L13_H1H1a_H6-1_D28_RNAseq_6hrKClAligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -575,7 +575,7 @@ visibility full
 autoScale on
 
 track 3_L1_H1_A9-1_D28_RNAseq_6hrKClAligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/3_L1_H1_A9-1_D28_RNAseq_6hrKClAligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/3_L1_H1_A9-1_D28_RNAseq_6hrKClAligned.sortedByCoord.out.bw
 shortLabel 3_L1_H1_A9-1_D28_RNAseq_6hrKClAligned.sortedByCoord.out
 longLabel 3_L1_H1_A9-1_D28_RNAseq_6hrKClAligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -583,7 +583,7 @@ visibility full
 autoScale on
 
 track 4-H1_G11_minusKCl_D28Ngn2Aligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/4-H1_G11_minusKCl_D28Ngn2Aligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/4-H1_G11_minusKCl_D28Ngn2Aligned.sortedByCoord.out.bw
 shortLabel 4-H1_G11_minusKCl_D28Ngn2Aligned.sortedByCoord.out
 longLabel 4-H1_G11_minusKCl_D28Ngn2Aligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -591,7 +591,7 @@ visibility full
 autoScale on
 
 track 40_L14_C1C1a_A11_D28_RNAseq_minusKClAligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/40_L14_C1C1a_A11_D28_RNAseq_minusKClAligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/40_L14_C1C1a_A11_D28_RNAseq_minusKClAligned.sortedByCoord.out.bw
 shortLabel 40_L14_C1C1a_A11_D28_RNAseq_minusKClAligned.sortedByCoord.out
 longLabel 40_L14_C1C1a_A11_D28_RNAseq_minusKClAligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -599,7 +599,7 @@ visibility full
 autoScale on
 
 track 41_L14_C1C1a_A11_D28_RNAseq_2hrKClAligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/41_L14_C1C1a_A11_D28_RNAseq_2hrKClAligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/41_L14_C1C1a_A11_D28_RNAseq_2hrKClAligned.sortedByCoord.out.bw
 shortLabel 41_L14_C1C1a_A11_D28_RNAseq_2hrKClAligned.sortedByCoord.out
 longLabel 41_L14_C1C1a_A11_D28_RNAseq_2hrKClAligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -607,7 +607,7 @@ visibility full
 autoScale on
 
 track 42_L14_C1C1a_A11_D28_RNAseq_6hrKClAligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/42_L14_C1C1a_A11_D28_RNAseq_6hrKClAligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/42_L14_C1C1a_A11_D28_RNAseq_6hrKClAligned.sortedByCoord.out.bw
 shortLabel 42_L14_C1C1a_A11_D28_RNAseq_6hrKClAligned.sortedByCoord.out
 longLabel 42_L14_C1C1a_A11_D28_RNAseq_6hrKClAligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -615,7 +615,7 @@ visibility full
 autoScale on
 
 track 43_L15_C1C1a_B7-1_D28_RNAseq_minusKClAligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/43_L15_C1C1a_B7-1_D28_RNAseq_minusKClAligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/43_L15_C1C1a_B7-1_D28_RNAseq_minusKClAligned.sortedByCoord.out.bw
 shortLabel 43_L15_C1C1a_B7-1_D28_RNAseq_minusKClAligned.sortedByCoord.out
 longLabel 43_L15_C1C1a_B7-1_D28_RNAseq_minusKClAligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -623,7 +623,7 @@ visibility full
 autoScale on
 
 track 44_L15_C1C1a_B7-1_D28_RNAseq_2hrKClAligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/44_L15_C1C1a_B7-1_D28_RNAseq_2hrKClAligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/44_L15_C1C1a_B7-1_D28_RNAseq_2hrKClAligned.sortedByCoord.out.bw
 shortLabel 44_L15_C1C1a_B7-1_D28_RNAseq_2hrKClAligned.sortedByCoord.out
 longLabel 44_L15_C1C1a_B7-1_D28_RNAseq_2hrKClAligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -631,7 +631,7 @@ visibility full
 autoScale on
 
 track 45_L15_C1C1a_B7-1_D28_RNAseq_6hrKClAligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/45_L15_C1C1a_B7-1_D28_RNAseq_6hrKClAligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/45_L15_C1C1a_B7-1_D28_RNAseq_6hrKClAligned.sortedByCoord.out.bw
 shortLabel 45_L15_C1C1a_B7-1_D28_RNAseq_6hrKClAligned.sortedByCoord.out
 longLabel 45_L15_C1C1a_B7-1_D28_RNAseq_6hrKClAligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -639,7 +639,7 @@ visibility full
 autoScale on
 
 track 46_L16_C1C1a_B11-1_D28_RNAseq_minusKClAligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/46_L16_C1C1a_B11-1_D28_RNAseq_minusKClAligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/46_L16_C1C1a_B11-1_D28_RNAseq_minusKClAligned.sortedByCoord.out.bw
 shortLabel 46_L16_C1C1a_B11-1_D28_RNAseq_minusKClAligned.sortedByCoord.out
 longLabel 46_L16_C1C1a_B11-1_D28_RNAseq_minusKClAligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -647,7 +647,7 @@ visibility full
 autoScale on
 
 track 47_L16_C1C1a_B11-1_D28_RNAseq_2hrKClAligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/47_L16_C1C1a_B11-1_D28_RNAseq_2hrKClAligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/47_L16_C1C1a_B11-1_D28_RNAseq_2hrKClAligned.sortedByCoord.out.bw
 shortLabel 47_L16_C1C1a_B11-1_D28_RNAseq_2hrKClAligned.sortedByCoord.out
 longLabel 47_L16_C1C1a_B11-1_D28_RNAseq_2hrKClAligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -655,7 +655,7 @@ visibility full
 autoScale on
 
 track 48_L16_C1C1a_B11-1_D28_RNAseq_6hrKClAligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/48_L16_C1C1a_B11-1_D28_RNAseq_6hrKClAligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/48_L16_C1C1a_B11-1_D28_RNAseq_6hrKClAligned.sortedByCoord.out.bw
 shortLabel 48_L16_C1C1a_B11-1_D28_RNAseq_6hrKClAligned.sortedByCoord.out
 longLabel 48_L16_C1C1a_B11-1_D28_RNAseq_6hrKClAligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -663,7 +663,7 @@ visibility full
 autoScale on
 
 track 49_L17_H1C1b_A6-2_D28_RNAseq_minusKCl.Hs
-bigDataUrl ../ngn2_tracks/49_L17_H1C1b_A6-2_D28_RNAseq_minusKCl.Hs.bw
+bigDataUrl ../tracks/49_L17_H1C1b_A6-2_D28_RNAseq_minusKCl.Hs.bw
 shortLabel 49_L17_H1C1b_A6-2_D28_RNAseq_minusKCl.Hs
 longLabel 49_L17_H1C1b_A6-2_D28_RNAseq_minusKCl.Hs RNA-seq
 type bigWig
@@ -671,7 +671,7 @@ visibility full
 autoScale on
 
 track 49_L17_H1C1b_A6-2_D28_RNAseq_minusKCl.Pt
-bigDataUrl ../ngn2_tracks/49_L17_H1C1b_A6-2_D28_RNAseq_minusKCl.Pt.bw
+bigDataUrl ../tracks/49_L17_H1C1b_A6-2_D28_RNAseq_minusKCl.Pt.bw
 shortLabel 49_L17_H1C1b_A6-2_D28_RNAseq_minusKCl.Pt
 longLabel 49_L17_H1C1b_A6-2_D28_RNAseq_minusKCl.Pt RNA-seq
 type bigWig
@@ -679,7 +679,7 @@ visibility full
 autoScale on
 
 track 4_L2_H1_G1_D28_RNAseq_minusKClAligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/4_L2_H1_G1_D28_RNAseq_minusKClAligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/4_L2_H1_G1_D28_RNAseq_minusKClAligned.sortedByCoord.out.bw
 shortLabel 4_L2_H1_G1_D28_RNAseq_minusKClAligned.sortedByCoord.out
 longLabel 4_L2_H1_G1_D28_RNAseq_minusKClAligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -687,7 +687,7 @@ visibility full
 autoScale on
 
 track 5-H1_G1_2hrKCl_D28Ngn2Aligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/5-H1_G1_2hrKCl_D28Ngn2Aligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/5-H1_G1_2hrKCl_D28Ngn2Aligned.sortedByCoord.out.bw
 shortLabel 5-H1_G1_2hrKCl_D28Ngn2Aligned.sortedByCoord.out
 longLabel 5-H1_G1_2hrKCl_D28Ngn2Aligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -695,7 +695,7 @@ visibility full
 autoScale on
 
 track 50_L17_H1C1b_A6-2_D28_RNAseq_2hrKCl.Hs
-bigDataUrl ../ngn2_tracks/50_L17_H1C1b_A6-2_D28_RNAseq_2hrKCl.Hs.bw
+bigDataUrl ../tracks/50_L17_H1C1b_A6-2_D28_RNAseq_2hrKCl.Hs.bw
 shortLabel 50_L17_H1C1b_A6-2_D28_RNAseq_2hrKCl.Hs
 longLabel 50_L17_H1C1b_A6-2_D28_RNAseq_2hrKCl.Hs RNA-seq
 type bigWig
@@ -703,7 +703,7 @@ visibility full
 autoScale on
 
 track 50_L17_H1C1b_A6-2_D28_RNAseq_2hrKCl.Pt
-bigDataUrl ../ngn2_tracks/50_L17_H1C1b_A6-2_D28_RNAseq_2hrKCl.Pt.bw
+bigDataUrl ../tracks/50_L17_H1C1b_A6-2_D28_RNAseq_2hrKCl.Pt.bw
 shortLabel 50_L17_H1C1b_A6-2_D28_RNAseq_2hrKCl.Pt
 longLabel 50_L17_H1C1b_A6-2_D28_RNAseq_2hrKCl.Pt RNA-seq
 type bigWig
@@ -711,7 +711,7 @@ visibility full
 autoScale on
 
 track 51_L17_H1C1b_A6-2_D28_RNAseq_6hrKCl.Hs
-bigDataUrl ../ngn2_tracks/51_L17_H1C1b_A6-2_D28_RNAseq_6hrKCl.Hs.bw
+bigDataUrl ../tracks/51_L17_H1C1b_A6-2_D28_RNAseq_6hrKCl.Hs.bw
 shortLabel 51_L17_H1C1b_A6-2_D28_RNAseq_6hrKCl.Hs
 longLabel 51_L17_H1C1b_A6-2_D28_RNAseq_6hrKCl.Hs RNA-seq
 type bigWig
@@ -719,7 +719,7 @@ visibility full
 autoScale on
 
 track 51_L17_H1C1b_A6-2_D28_RNAseq_6hrKCl.Pt
-bigDataUrl ../ngn2_tracks/51_L17_H1C1b_A6-2_D28_RNAseq_6hrKCl.Pt.bw
+bigDataUrl ../tracks/51_L17_H1C1b_A6-2_D28_RNAseq_6hrKCl.Pt.bw
 shortLabel 51_L17_H1C1b_A6-2_D28_RNAseq_6hrKCl.Pt
 longLabel 51_L17_H1C1b_A6-2_D28_RNAseq_6hrKCl.Pt RNA-seq
 type bigWig
@@ -727,7 +727,7 @@ visibility full
 autoScale on
 
 track 52_L18_H1C1b_E4-1_D28_RNAseq_minusKCl.Hs
-bigDataUrl ../ngn2_tracks/52_L18_H1C1b_E4-1_D28_RNAseq_minusKCl.Hs.bw
+bigDataUrl ../tracks/52_L18_H1C1b_E4-1_D28_RNAseq_minusKCl.Hs.bw
 shortLabel 52_L18_H1C1b_E4-1_D28_RNAseq_minusKCl.Hs
 longLabel 52_L18_H1C1b_E4-1_D28_RNAseq_minusKCl.Hs RNA-seq
 type bigWig
@@ -735,7 +735,7 @@ visibility full
 autoScale on
 
 track 52_L18_H1C1b_E4-1_D28_RNAseq_minusKCl.Pt
-bigDataUrl ../ngn2_tracks/52_L18_H1C1b_E4-1_D28_RNAseq_minusKCl.Pt.bw
+bigDataUrl ../tracks/52_L18_H1C1b_E4-1_D28_RNAseq_minusKCl.Pt.bw
 shortLabel 52_L18_H1C1b_E4-1_D28_RNAseq_minusKCl.Pt
 longLabel 52_L18_H1C1b_E4-1_D28_RNAseq_minusKCl.Pt RNA-seq
 type bigWig
@@ -743,7 +743,7 @@ visibility full
 autoScale on
 
 track 53_L18_H1C1b_E4-1_D28_RNAseq_2hrKCl.Hs
-bigDataUrl ../ngn2_tracks/53_L18_H1C1b_E4-1_D28_RNAseq_2hrKCl.Hs.bw
+bigDataUrl ../tracks/53_L18_H1C1b_E4-1_D28_RNAseq_2hrKCl.Hs.bw
 shortLabel 53_L18_H1C1b_E4-1_D28_RNAseq_2hrKCl.Hs
 longLabel 53_L18_H1C1b_E4-1_D28_RNAseq_2hrKCl.Hs RNA-seq
 type bigWig
@@ -751,7 +751,7 @@ visibility full
 autoScale on
 
 track 53_L18_H1C1b_E4-1_D28_RNAseq_2hrKCl.Pt
-bigDataUrl ../ngn2_tracks/53_L18_H1C1b_E4-1_D28_RNAseq_2hrKCl.Pt.bw
+bigDataUrl ../tracks/53_L18_H1C1b_E4-1_D28_RNAseq_2hrKCl.Pt.bw
 shortLabel 53_L18_H1C1b_E4-1_D28_RNAseq_2hrKCl.Pt
 longLabel 53_L18_H1C1b_E4-1_D28_RNAseq_2hrKCl.Pt RNA-seq
 type bigWig
@@ -759,7 +759,7 @@ visibility full
 autoScale on
 
 track 54_L18_H1C1b_E4-1_D28_RNAseq_6hrKCl.Hs
-bigDataUrl ../ngn2_tracks/54_L18_H1C1b_E4-1_D28_RNAseq_6hrKCl.Hs.bw
+bigDataUrl ../tracks/54_L18_H1C1b_E4-1_D28_RNAseq_6hrKCl.Hs.bw
 shortLabel 54_L18_H1C1b_E4-1_D28_RNAseq_6hrKCl.Hs
 longLabel 54_L18_H1C1b_E4-1_D28_RNAseq_6hrKCl.Hs RNA-seq
 type bigWig
@@ -767,7 +767,7 @@ visibility full
 autoScale on
 
 track 54_L18_H1C1b_E4-1_D28_RNAseq_6hrKCl.Pt
-bigDataUrl ../ngn2_tracks/54_L18_H1C1b_E4-1_D28_RNAseq_6hrKCl.Pt.bw
+bigDataUrl ../tracks/54_L18_H1C1b_E4-1_D28_RNAseq_6hrKCl.Pt.bw
 shortLabel 54_L18_H1C1b_E4-1_D28_RNAseq_6hrKCl.Pt
 longLabel 54_L18_H1C1b_E4-1_D28_RNAseq_6hrKCl.Pt RNA-seq
 type bigWig
@@ -775,7 +775,7 @@ visibility full
 autoScale on
 
 track 55_L19_H1C1b_F10-1_D28_RNAseq_minusKCl.Hs
-bigDataUrl ../ngn2_tracks/55_L19_H1C1b_F10-1_D28_RNAseq_minusKCl.Hs.bw
+bigDataUrl ../tracks/55_L19_H1C1b_F10-1_D28_RNAseq_minusKCl.Hs.bw
 shortLabel 55_L19_H1C1b_F10-1_D28_RNAseq_minusKCl.Hs
 longLabel 55_L19_H1C1b_F10-1_D28_RNAseq_minusKCl.Hs RNA-seq
 type bigWig
@@ -783,7 +783,7 @@ visibility full
 autoScale on
 
 track 55_L19_H1C1b_F10-1_D28_RNAseq_minusKCl.Pt
-bigDataUrl ../ngn2_tracks/55_L19_H1C1b_F10-1_D28_RNAseq_minusKCl.Pt.bw
+bigDataUrl ../tracks/55_L19_H1C1b_F10-1_D28_RNAseq_minusKCl.Pt.bw
 shortLabel 55_L19_H1C1b_F10-1_D28_RNAseq_minusKCl.Pt
 longLabel 55_L19_H1C1b_F10-1_D28_RNAseq_minusKCl.Pt RNA-seq
 type bigWig
@@ -791,7 +791,7 @@ visibility full
 autoScale on
 
 track 56_L19_H1C1b_F10-1_D28_RNAseq_2hrKCl.Hs
-bigDataUrl ../ngn2_tracks/56_L19_H1C1b_F10-1_D28_RNAseq_2hrKCl.Hs.bw
+bigDataUrl ../tracks/56_L19_H1C1b_F10-1_D28_RNAseq_2hrKCl.Hs.bw
 shortLabel 56_L19_H1C1b_F10-1_D28_RNAseq_2hrKCl.Hs
 longLabel 56_L19_H1C1b_F10-1_D28_RNAseq_2hrKCl.Hs RNA-seq
 type bigWig
@@ -799,7 +799,7 @@ visibility full
 autoScale on
 
 track 56_L19_H1C1b_F10-1_D28_RNAseq_2hrKCl.Pt
-bigDataUrl ../ngn2_tracks/56_L19_H1C1b_F10-1_D28_RNAseq_2hrKCl.Pt.bw
+bigDataUrl ../tracks/56_L19_H1C1b_F10-1_D28_RNAseq_2hrKCl.Pt.bw
 shortLabel 56_L19_H1C1b_F10-1_D28_RNAseq_2hrKCl.Pt
 longLabel 56_L19_H1C1b_F10-1_D28_RNAseq_2hrKCl.Pt RNA-seq
 type bigWig
@@ -807,7 +807,7 @@ visibility full
 autoScale on
 
 track 57_L19_H1C1b_F10-1_D28_RNAseq_6hrKCl.Hs
-bigDataUrl ../ngn2_tracks/57_L19_H1C1b_F10-1_D28_RNAseq_6hrKCl.Hs.bw
+bigDataUrl ../tracks/57_L19_H1C1b_F10-1_D28_RNAseq_6hrKCl.Hs.bw
 shortLabel 57_L19_H1C1b_F10-1_D28_RNAseq_6hrKCl.Hs
 longLabel 57_L19_H1C1b_F10-1_D28_RNAseq_6hrKCl.Hs RNA-seq
 type bigWig
@@ -815,7 +815,7 @@ visibility full
 autoScale on
 
 track 57_L19_H1C1b_F10-1_D28_RNAseq_6hrKCl.Pt
-bigDataUrl ../ngn2_tracks/57_L19_H1C1b_F10-1_D28_RNAseq_6hrKCl.Pt.bw
+bigDataUrl ../tracks/57_L19_H1C1b_F10-1_D28_RNAseq_6hrKCl.Pt.bw
 shortLabel 57_L19_H1C1b_F10-1_D28_RNAseq_6hrKCl.Pt
 longLabel 57_L19_H1C1b_F10-1_D28_RNAseq_6hrKCl.Pt RNA-seq
 type bigWig
@@ -823,7 +823,7 @@ visibility full
 autoScale on
 
 track 58_L20_H2C2a_G1-1_D28_RNAseq_minusKCl.Hs
-bigDataUrl ../ngn2_tracks/58_L20_H2C2a_G1-1_D28_RNAseq_minusKCl.Hs.bw
+bigDataUrl ../tracks/58_L20_H2C2a_G1-1_D28_RNAseq_minusKCl.Hs.bw
 shortLabel 58_L20_H2C2a_G1-1_D28_RNAseq_minusKCl.Hs
 longLabel 58_L20_H2C2a_G1-1_D28_RNAseq_minusKCl.Hs RNA-seq
 type bigWig
@@ -831,7 +831,7 @@ visibility full
 autoScale on
 
 track 58_L20_H2C2a_G1-1_D28_RNAseq_minusKCl.Pt
-bigDataUrl ../ngn2_tracks/58_L20_H2C2a_G1-1_D28_RNAseq_minusKCl.Pt.bw
+bigDataUrl ../tracks/58_L20_H2C2a_G1-1_D28_RNAseq_minusKCl.Pt.bw
 shortLabel 58_L20_H2C2a_G1-1_D28_RNAseq_minusKCl.Pt
 longLabel 58_L20_H2C2a_G1-1_D28_RNAseq_minusKCl.Pt RNA-seq
 type bigWig
@@ -839,7 +839,7 @@ visibility full
 autoScale on
 
 track 59_L20_H2C2a_G1-1_D28_RNAseq_2hrKCl.Hs
-bigDataUrl ../ngn2_tracks/59_L20_H2C2a_G1-1_D28_RNAseq_2hrKCl.Hs.bw
+bigDataUrl ../tracks/59_L20_H2C2a_G1-1_D28_RNAseq_2hrKCl.Hs.bw
 shortLabel 59_L20_H2C2a_G1-1_D28_RNAseq_2hrKCl.Hs
 longLabel 59_L20_H2C2a_G1-1_D28_RNAseq_2hrKCl.Hs RNA-seq
 type bigWig
@@ -847,7 +847,7 @@ visibility full
 autoScale on
 
 track 59_L20_H2C2a_G1-1_D28_RNAseq_2hrKCl.Pt
-bigDataUrl ../ngn2_tracks/59_L20_H2C2a_G1-1_D28_RNAseq_2hrKCl.Pt.bw
+bigDataUrl ../tracks/59_L20_H2C2a_G1-1_D28_RNAseq_2hrKCl.Pt.bw
 shortLabel 59_L20_H2C2a_G1-1_D28_RNAseq_2hrKCl.Pt
 longLabel 59_L20_H2C2a_G1-1_D28_RNAseq_2hrKCl.Pt RNA-seq
 type bigWig
@@ -855,7 +855,7 @@ visibility full
 autoScale on
 
 track 5_L2_H1_G1_D28_RNAseq_2hrKClAligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/5_L2_H1_G1_D28_RNAseq_2hrKClAligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/5_L2_H1_G1_D28_RNAseq_2hrKClAligned.sortedByCoord.out.bw
 shortLabel 5_L2_H1_G1_D28_RNAseq_2hrKClAligned.sortedByCoord.out
 longLabel 5_L2_H1_G1_D28_RNAseq_2hrKClAligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -863,7 +863,7 @@ visibility full
 autoScale on
 
 track 6-H1_G1_6hrKCl_D28Ngn2Aligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/6-H1_G1_6hrKCl_D28Ngn2Aligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/6-H1_G1_6hrKCl_D28Ngn2Aligned.sortedByCoord.out.bw
 shortLabel 6-H1_G1_6hrKCl_D28Ngn2Aligned.sortedByCoord.out
 longLabel 6-H1_G1_6hrKCl_D28Ngn2Aligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -871,7 +871,7 @@ visibility full
 autoScale on
 
 track 60_L20_H2C2a_G1-1_D28_RNAseq_6hrKCl.Hs
-bigDataUrl ../ngn2_tracks/60_L20_H2C2a_G1-1_D28_RNAseq_6hrKCl.Hs.bw
+bigDataUrl ../tracks/60_L20_H2C2a_G1-1_D28_RNAseq_6hrKCl.Hs.bw
 shortLabel 60_L20_H2C2a_G1-1_D28_RNAseq_6hrKCl.Hs
 longLabel 60_L20_H2C2a_G1-1_D28_RNAseq_6hrKCl.Hs RNA-seq
 type bigWig
@@ -879,7 +879,7 @@ visibility full
 autoScale on
 
 track 60_L20_H2C2a_G1-1_D28_RNAseq_6hrKCl.Pt
-bigDataUrl ../ngn2_tracks/60_L20_H2C2a_G1-1_D28_RNAseq_6hrKCl.Pt.bw
+bigDataUrl ../tracks/60_L20_H2C2a_G1-1_D28_RNAseq_6hrKCl.Pt.bw
 shortLabel 60_L20_H2C2a_G1-1_D28_RNAseq_6hrKCl.Pt
 longLabel 60_L20_H2C2a_G1-1_D28_RNAseq_6hrKCl.Pt RNA-seq
 type bigWig
@@ -887,7 +887,7 @@ visibility full
 autoScale on
 
 track 61_L21_H2C2a_G6-2_D28_RNAseq_minusKCl.Hs
-bigDataUrl ../ngn2_tracks/61_L21_H2C2a_G6-2_D28_RNAseq_minusKCl.Hs.bw
+bigDataUrl ../tracks/61_L21_H2C2a_G6-2_D28_RNAseq_minusKCl.Hs.bw
 shortLabel 61_L21_H2C2a_G6-2_D28_RNAseq_minusKCl.Hs
 longLabel 61_L21_H2C2a_G6-2_D28_RNAseq_minusKCl.Hs RNA-seq
 type bigWig
@@ -895,7 +895,7 @@ visibility full
 autoScale on
 
 track 61_L21_H2C2a_G6-2_D28_RNAseq_minusKCl.Pt
-bigDataUrl ../ngn2_tracks/61_L21_H2C2a_G6-2_D28_RNAseq_minusKCl.Pt.bw
+bigDataUrl ../tracks/61_L21_H2C2a_G6-2_D28_RNAseq_minusKCl.Pt.bw
 shortLabel 61_L21_H2C2a_G6-2_D28_RNAseq_minusKCl.Pt
 longLabel 61_L21_H2C2a_G6-2_D28_RNAseq_minusKCl.Pt RNA-seq
 type bigWig
@@ -903,7 +903,7 @@ visibility full
 autoScale on
 
 track 62_L21_H2C2a_G6-2_D28_RNAseq_2hrKCl.Hs
-bigDataUrl ../ngn2_tracks/62_L21_H2C2a_G6-2_D28_RNAseq_2hrKCl.Hs.bw
+bigDataUrl ../tracks/62_L21_H2C2a_G6-2_D28_RNAseq_2hrKCl.Hs.bw
 shortLabel 62_L21_H2C2a_G6-2_D28_RNAseq_2hrKCl.Hs
 longLabel 62_L21_H2C2a_G6-2_D28_RNAseq_2hrKCl.Hs RNA-seq
 type bigWig
@@ -911,7 +911,7 @@ visibility full
 autoScale on
 
 track 62_L21_H2C2a_G6-2_D28_RNAseq_2hrKCl.Pt
-bigDataUrl ../ngn2_tracks/62_L21_H2C2a_G6-2_D28_RNAseq_2hrKCl.Pt.bw
+bigDataUrl ../tracks/62_L21_H2C2a_G6-2_D28_RNAseq_2hrKCl.Pt.bw
 shortLabel 62_L21_H2C2a_G6-2_D28_RNAseq_2hrKCl.Pt
 longLabel 62_L21_H2C2a_G6-2_D28_RNAseq_2hrKCl.Pt RNA-seq
 type bigWig
@@ -919,7 +919,7 @@ visibility full
 autoScale on
 
 track 63_L21_H2C2a_G6-2_D28_RNAseq_6hrKCl.Hs
-bigDataUrl ../ngn2_tracks/63_L21_H2C2a_G6-2_D28_RNAseq_6hrKCl.Hs.bw
+bigDataUrl ../tracks/63_L21_H2C2a_G6-2_D28_RNAseq_6hrKCl.Hs.bw
 shortLabel 63_L21_H2C2a_G6-2_D28_RNAseq_6hrKCl.Hs
 longLabel 63_L21_H2C2a_G6-2_D28_RNAseq_6hrKCl.Hs RNA-seq
 type bigWig
@@ -927,7 +927,7 @@ visibility full
 autoScale on
 
 track 63_L21_H2C2a_G6-2_D28_RNAseq_6hrKCl.Pt
-bigDataUrl ../ngn2_tracks/63_L21_H2C2a_G6-2_D28_RNAseq_6hrKCl.Pt.bw
+bigDataUrl ../tracks/63_L21_H2C2a_G6-2_D28_RNAseq_6hrKCl.Pt.bw
 shortLabel 63_L21_H2C2a_G6-2_D28_RNAseq_6hrKCl.Pt
 longLabel 63_L21_H2C2a_G6-2_D28_RNAseq_6hrKCl.Pt RNA-seq
 type bigWig
@@ -935,7 +935,7 @@ visibility full
 autoScale on
 
 track 64_L22_H2C2a_G11-1_D28_RNAseq_minusKCl.Hs
-bigDataUrl ../ngn2_tracks/64_L22_H2C2a_G11-1_D28_RNAseq_minusKCl.Hs.bw
+bigDataUrl ../tracks/64_L22_H2C2a_G11-1_D28_RNAseq_minusKCl.Hs.bw
 shortLabel 64_L22_H2C2a_G11-1_D28_RNAseq_minusKCl.Hs
 longLabel 64_L22_H2C2a_G11-1_D28_RNAseq_minusKCl.Hs RNA-seq
 type bigWig
@@ -943,7 +943,7 @@ visibility full
 autoScale on
 
 track 64_L22_H2C2a_G11-1_D28_RNAseq_minusKCl.Pt
-bigDataUrl ../ngn2_tracks/64_L22_H2C2a_G11-1_D28_RNAseq_minusKCl.Pt.bw
+bigDataUrl ../tracks/64_L22_H2C2a_G11-1_D28_RNAseq_minusKCl.Pt.bw
 shortLabel 64_L22_H2C2a_G11-1_D28_RNAseq_minusKCl.Pt
 longLabel 64_L22_H2C2a_G11-1_D28_RNAseq_minusKCl.Pt RNA-seq
 type bigWig
@@ -951,7 +951,7 @@ visibility full
 autoScale on
 
 track 65_L22_H2C2a_G11-1_D28_RNAseq_2hrKCl.Hs
-bigDataUrl ../ngn2_tracks/65_L22_H2C2a_G11-1_D28_RNAseq_2hrKCl.Hs.bw
+bigDataUrl ../tracks/65_L22_H2C2a_G11-1_D28_RNAseq_2hrKCl.Hs.bw
 shortLabel 65_L22_H2C2a_G11-1_D28_RNAseq_2hrKCl.Hs
 longLabel 65_L22_H2C2a_G11-1_D28_RNAseq_2hrKCl.Hs RNA-seq
 type bigWig
@@ -959,7 +959,7 @@ visibility full
 autoScale on
 
 track 65_L22_H2C2a_G11-1_D28_RNAseq_2hrKCl.Pt
-bigDataUrl ../ngn2_tracks/65_L22_H2C2a_G11-1_D28_RNAseq_2hrKCl.Pt.bw
+bigDataUrl ../tracks/65_L22_H2C2a_G11-1_D28_RNAseq_2hrKCl.Pt.bw
 shortLabel 65_L22_H2C2a_G11-1_D28_RNAseq_2hrKCl.Pt
 longLabel 65_L22_H2C2a_G11-1_D28_RNAseq_2hrKCl.Pt RNA-seq
 type bigWig
@@ -967,7 +967,7 @@ visibility full
 autoScale on
 
 track 66_L22_H2C2a_G11-1_D28_RNAseq_6hrKCl.Hs
-bigDataUrl ../ngn2_tracks/66_L22_H2C2a_G11-1_D28_RNAseq_6hrKCl.Hs.bw
+bigDataUrl ../tracks/66_L22_H2C2a_G11-1_D28_RNAseq_6hrKCl.Hs.bw
 shortLabel 66_L22_H2C2a_G11-1_D28_RNAseq_6hrKCl.Hs
 longLabel 66_L22_H2C2a_G11-1_D28_RNAseq_6hrKCl.Hs RNA-seq
 type bigWig
@@ -975,7 +975,7 @@ visibility full
 autoScale on
 
 track 66_L22_H2C2a_G11-1_D28_RNAseq_6hrKCl.Pt
-bigDataUrl ../ngn2_tracks/66_L22_H2C2a_G11-1_D28_RNAseq_6hrKCl.Pt.bw
+bigDataUrl ../tracks/66_L22_H2C2a_G11-1_D28_RNAseq_6hrKCl.Pt.bw
 shortLabel 66_L22_H2C2a_G11-1_D28_RNAseq_6hrKCl.Pt
 longLabel 66_L22_H2C2a_G11-1_D28_RNAseq_6hrKCl.Pt RNA-seq
 type bigWig
@@ -983,7 +983,7 @@ visibility full
 autoScale on
 
 track 6_L2_H1_G1_D28_RNAseq_6hrKClAligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/6_L2_H1_G1_D28_RNAseq_6hrKClAligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/6_L2_H1_G1_D28_RNAseq_6hrKClAligned.sortedByCoord.out.bw
 shortLabel 6_L2_H1_G1_D28_RNAseq_6hrKClAligned.sortedByCoord.out
 longLabel 6_L2_H1_G1_D28_RNAseq_6hrKClAligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -991,7 +991,7 @@ visibility full
 autoScale on
 
 track 7-H2_B2-2_6hrKCl_D28Ngn2Aligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/7-H2_B2-2_6hrKCl_D28Ngn2Aligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/7-H2_B2-2_6hrKCl_D28Ngn2Aligned.sortedByCoord.out.bw
 shortLabel 7-H2_B2-2_6hrKCl_D28Ngn2Aligned.sortedByCoord.out
 longLabel 7-H2_B2-2_6hrKCl_D28Ngn2Aligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -999,7 +999,7 @@ visibility full
 autoScale on
 
 track 7_L3_H2-C_D28_RNAseq_minusKClAligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/7_L3_H2-C_D28_RNAseq_minusKClAligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/7_L3_H2-C_D28_RNAseq_minusKClAligned.sortedByCoord.out.bw
 shortLabel 7_L3_H2-C_D28_RNAseq_minusKClAligned.sortedByCoord.out
 longLabel 7_L3_H2-C_D28_RNAseq_minusKClAligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -1007,7 +1007,7 @@ visibility full
 autoScale on
 
 track 8-H2_B7-2_minusKCl_D28Ngn2Aligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/8-H2_B7-2_minusKCl_D28Ngn2Aligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/8-H2_B7-2_minusKCl_D28Ngn2Aligned.sortedByCoord.out.bw
 shortLabel 8-H2_B7-2_minusKCl_D28Ngn2Aligned.sortedByCoord.out
 longLabel 8-H2_B7-2_minusKCl_D28Ngn2Aligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -1015,7 +1015,7 @@ visibility full
 autoScale on
 
 track 8_L3_H2-C_D28_RNAseq_2hrKClAligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/8_L3_H2-C_D28_RNAseq_2hrKClAligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/8_L3_H2-C_D28_RNAseq_2hrKClAligned.sortedByCoord.out.bw
 shortLabel 8_L3_H2-C_D28_RNAseq_2hrKClAligned.sortedByCoord.out
 longLabel 8_L3_H2-C_D28_RNAseq_2hrKClAligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -1023,7 +1023,7 @@ visibility full
 autoScale on
 
 track 9-H2_B7-2_2hrKCl_D28Ngn2Aligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/9-H2_B7-2_2hrKCl_D28Ngn2Aligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/9-H2_B7-2_2hrKCl_D28Ngn2Aligned.sortedByCoord.out.bw
 shortLabel 9-H2_B7-2_2hrKCl_D28Ngn2Aligned.sortedByCoord.out
 longLabel 9-H2_B7-2_2hrKCl_D28Ngn2Aligned.sortedByCoord.out RNA-seq
 type bigWig
@@ -1031,7 +1031,7 @@ visibility full
 autoScale on
 
 track 9_L3_H2-C_D28_RNAseq_6hrKClAligned.sortedByCoord.out
-bigDataUrl ../ngn2_tracks/9_L3_H2-C_D28_RNAseq_6hrKClAligned.sortedByCoord.out.bw
+bigDataUrl ../tracks/9_L3_H2-C_D28_RNAseq_6hrKClAligned.sortedByCoord.out.bw
 shortLabel 9_L3_H2-C_D28_RNAseq_6hrKClAligned.sortedByCoord.out
 longLabel 9_L3_H2-C_D28_RNAseq_6hrKClAligned.sortedByCoord.out RNA-seq
 type bigWig
