@@ -1,0 +1,5 @@
+hub Ngn2Tetraploid
+shortLabel Ngn2 Tetraploid
+longLabel Ngn2 Tetraploid RNA-seq BigWig Tracks
+genomesFile genomes.txt
+email your.email@harvard.edu
